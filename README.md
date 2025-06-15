@@ -26,17 +26,6 @@ The environment includes:
 
 ---
 
-## 📦 Dataset Structure
-
-```
-dataset_v1/
-├── benign/         # Legitimate DNS traffic (.pcap)
-├── malicious/      # Exfiltration traffic (.pcap)
-└── features/       # Pre-extracted features (.csv)
-```
-
----
-
 ## 🧠 Example Use
 
 ```bash
