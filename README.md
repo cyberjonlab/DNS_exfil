@@ -30,10 +30,10 @@ The environment includes:
 
 ```bash
 # Convert pcap to argus
-argus -r malicious/sample1.pcap -w sample1.argus
+argus -r Attack.pcapng -w Attack.argus
 
 # Extract features
-ra -r sample1.argus -s stime dur proto saddr daddr dport bytes pkts ...
+ra -r Attack.argus -s stime dur proto saddr daddr dport bytes pkts ...
 ```
 
 ---
