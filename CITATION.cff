@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the following paper."
+title: "DNS exfiltration attack and dataset generation for Machine Learning-based detection"
+authors:
+  - family-names: Thomas
+    given-names: Rajesh
+    affiliation: Higher Colleges of Technology
+    email: rthomas1@hct.ac.ae
+date-released: 2025-06-15
+version: "1.0"
+license: CC-BY-NC-4.0
+repository: https://github.com/cyberjonlab/DNS_exfil
+preferred-citation:
+  type: article
+  title: "DNS exfiltration attack and dataset generation for Machine Learning-based detection"
+  author:
+    - family-names: Thomas
+      given-names: Rajesh
+  year: 2025
+  note: "Available at: https://github.com/cyberjonlab/DNS_exfil/tree/main/dataset_v1"
